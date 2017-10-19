@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://git.fossgalaxy.com/compscisoc/kernel.git
